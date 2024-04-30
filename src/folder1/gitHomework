@@ -1,0 +1,38 @@
+Steps:
+      1.Create a local repository:
+•	Create a new directory\project on your computer for this task.
+•	Initialize a new Git repository in this directory
+2. Create a file:
+•	Inside the directory, create a new text file named hello.txt
+•	Open the hello.txt file and write some text (e.g., "Hello, Git!").
+3. Add and commit changes:
+•	Add the hello.txt file to the staging area
+•	Commit your changes to the repository with a meaningful commit.
+
+
+4. Create repository in Github.
+5. Add remote repository to your local project
+6. Push your local commits to remote repository
+7. Create a branch:
+•	Create a new branch named feature
+•	Switch to the feature branch
+8. Make your changes on the branch:
+•	Open the hello.txt file and add some additional text (e.g., "This is a feature branch.").
+9. Add and commit changes on the branch:
+•	Add the modified hello.txt file to the staging area
+•	Commit your changes to the feature branch with a meaningful commit
+10. Push the branch to remote repository
+11.Create Pull Request on Github:
+•	Visit the web interface of Github
+•	Navigate to your repository.
+•	Switch to the feature branch if not already selected.
+•	Click on the "New pull request" button.
+•	Select the base branch (e.g., master) and the feature branch.
+•	Review the changes and provide a descriptive title and description for the pull request.
+•	Click on the "Create pull request" button to initiate the pull request.
+12. Review and Merge the Pull request:
+•	Once the pull request is created, it will be reviewed by project collaborators.(on real projects)
+•	If the changes are approved, merge the pull request into the main branch (master) using the merge button on the pull request page.
+13. Check remote repository:
+•	Visit the web interface of your Git hosting service and navigate to your repository to ensure that the changes, including the pull request and its changes, are reflected there.
+14. Share the link of your Github project.
